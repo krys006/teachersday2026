@@ -1,0 +1,777 @@
+[
+  {
+    "username": "sirjerold",
+    "passwordHash": "scrypt$ea6c68fc862a59058caf5f952fad030b$6f2deffec2d322b43e74cb64b3e5c8e60672d8d9f284b1bf4e7ba86c7594a701478f392d6a8bb6c76a36443cebc1a84b1ac79b718233143244e040db9c1df864",
+    "name": "Sir Lantoria",
+    "title": "Head",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Thank you po for teaching us the logic gates, nagagamit na po namin hehe.",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teachers' Day, Sir! Thank you po for serving as the father of our department and we appreciate your efforts daily. Kudos to your service!",
+        "animation": "circuit"
+      },
+      {
+        "from": "K",
+        "text": "We enjoy being with you po🥰\n\nKahit na po may mapagka-nonchalant ka po, Im happy in your class po. Somehow hindi po nakakaboring haha",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's po sa isa sa pinakafave na teacher ng 4A. Salamat sir sa support mo po sa amin lagi. Salamat po sa mga knowledge na patuloy mong iniimpart sa amin. Godbless po🥰",
+        "animation": "terminal"
+      },
+      {
+        "from": "K",
+        "text": "Sir thank you po sa pagsupport sa amin sana patuloy nyo pa po kaming supportahan Lalo na po sa defense namin😭💕",
+        "animation": "sticky"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\n\nThank you po sa lahat ng knowledge na tinuro niyo po samin! I started appreciating circuits more cause of you po 💗 No doubt you've been a significant part of our CpE journey po! Salamat po sir🥰\n\n-anon",
+        "animation": "envelope"
+      },
+      {
+        "from": "p",
+        "text": "happy teacher's day pooo\n\nI really had fun po sa mga subject na itinuturo mo sa amin, and ngl, it's one of my fav subject sa loob ng apat na taon.\n\nI hope marami pa pong inhinyero ang makapulot ng makabuluhang aral mula sa'yo\n\n-p",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "happy teacher's day po sir, thank u po sa mga tinuro niyo samin. appreciate ko po lahat saka naaaply ko sa ibang mga projects. thank u po ulit and enjoy ur dayy.",
+        "animation": "polaroid"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_1451343336807404.jpeg",
+        "caption": "Compiled with care, thank you po."
+      },
+      {
+        "image": "assets/received_3473902136077380.jpeg",
+        "caption": "Good times, good people."
+      },
+      {
+        "image": "assets/received_2668353443495998.jpeg",
+        "caption": "Behind every one of us is a teacher who cared."
+      },
+      {
+        "image": "assets/received_2053498625467382.jpeg",
+        "caption": "Grateful for every lesson, big and small."
+      },
+      {
+        "image": "assets/received_1513296153442062.jpeg",
+        "caption": "Hard lessons, happy faces."
+      },
+      {
+        "video": "assets/received_1977118803093382.mp4",
+        "caption": "Unscripted and unforgettable."
+      },
+      {
+        "image": "assets/received_1262960305605099.jpeg",
+        "caption": "This one is a keeper."
+      },
+      {
+        "image": "assets/received_1396702105027937.jpeg",
+        "caption": "We learned more by doing, thanks to you."
+      },
+      {
+        "image": "assets/received_1109830533660744.jpeg",
+        "caption": "Smiles all around. ✨"
+      },
+      {
+        "image": "assets/651845316_832768376512618_8949451326777900516_n.jpg",
+        "caption": "Your smile was the best part of class."
+      },
+      {
+        "image": "assets/received_1055659100298921.jpeg",
+        "caption": "Your kindness stayed with us longer than any lesson."
+      }
+    ]
+  },
+  {
+    "username": "maamana",
+    "passwordHash": "scrypt$5a5903f4ba0411eb63c55e029dbb360f$b58a78429dc1cded228ba1392f810cae05ec61612577cba7a6671a320659809530c210818499ab788e32627643482e192ea757c11b4ffb99d8afcc84855521ce",
+    "name": "Ma'am Ana",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po Ma'am. Pasensya na po medjo late, nakalocked in po lahat sa thesis. Wish us luck po sa defense.🫶",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po!!🥳\n\nSobrang naapreciate po namin ang mga payo at paalala niyo po throught our CpE journey. It really helped us a lot and we are very grateful to have you as our pangalawang ina here at uni hehe🥰 We will strive to make you proud po!💗",
+        "animation": "polaroid"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po maam!\n\nThank you po sa mga guiding po samin, at sa patience na binibigay nyo po samin lalo na po sa thesis namin💕 Sana hindi po magisa sa defense🤞",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day Ma'am thank you po sa knowledge na patuloy mong iniimpart sa amin. Sana di po kami maging pang sahog sa adobo next week🥹",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "To our research adviser, salamat po kasi nagareply ka po ma'am Kahit gabing gabi na po ang message namin, you always got our back. Happy Teacher's Day pooo.",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teachers' Day, Ma'am! Thank you for honing us everyday to be better students, to be better professionals. Your ways may not always align with our preferences, but we appreciate that you exert your best just for us to be better :)",
+        "animation": "envelope"
+      },
+      {
+        "from": "p",
+        "text": "Happy teacher's day poo!\n\neto yong teacher na kinakatakutan q nong 1st year but habang tumatagal, takot parin but in a good way na poo😅\n\nI super admire you as a professional and thank you po for honing our discipline and understanding on what we're going to face in the future\n\n-p",
+        "animation": "flower"
+      },
+      {
+        "from": "thalassa member",
+        "text": "happy teacher's day po, thank u sa lahat. sana po mapalusot sa thesis hehehe. enjoy ur day po and hope u thrive more in life.\n\n----thalassa member",
+        "animation": "polaroid"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_809792194801755.jpeg",
+        "caption": "Thank you for being you po."
+      },
+      {
+        "image": "assets/received_1378144043252528.jpeg",
+        "caption": "Moments we'll always remember."
+      },
+      {
+        "image": "assets/received_640255185355084.jpeg",
+        "caption": "You never just taught. You cared."
+      },
+      {
+        "image": "assets/received_658751923440350.jpeg",
+        "caption": "Thank you for seeing the best in us."
+      },
+      {
+        "image": "assets/received_1109830533660744.jpeg",
+        "caption": "Happy faces, happy hearts."
+      },
+      {
+        "image": "assets/received_955566532577386.jpeg",
+        "caption": "Memory worth keeping."
+      },
+      {
+        "image": "assets/received_1352857762709437.jpeg",
+        "caption": "Smiles all around. ✨"
+      },
+      {
+        "image": "assets/received_1748648509412559.jpeg",
+        "caption": "Your kindness stayed with us longer than any lesson."
+      },
+      {
+        "image": "assets/received_1501700317538193.jpeg",
+        "caption": "You're the best mentor we never had to reboot."
+      }
+    ]
+  },
+  {
+    "username": "maamdes",
+    "passwordHash": "scrypt$7b907909e123aa3f860bc0d094e0b1af$c1f83be180d1a9e5d3238d59af2dbe218983b5ce8b52999838475c6bd320cf9d1ac5e8cbdcb24cf3270bf3e4b4d12e41937abac937349da55b67a806131d143d",
+    "name": "Ma'am Desiree",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\n\nThank you so much po for being a part of our CpE journey!\n\nAll my favorite courses have been thought by you po maam and I am immensely grateful for that. 🥰 Mapa-DSA, DBMS and more, sobrang solid po ng lectures hehe. Salamat po Ma'am!\n\n-anon",
+        "animation": "polaroid"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po maam💕\n\n Nakakalungkot po maam dahil hindi po natuloy po ang ating fieldtrip🥹 Sayang po ung bonding time nun",
+        "animation": "circuit"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po! Im grateful po that you are one of our second nanay🥹💕",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day po Ma'am, love na love ka po ng 4A students mooo",
+        "animation": "terminal"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teachers' Day, Ma'am! We thank you for sharing your expertise to us in the most comprehensive way you can. Know that we owe a share of our knowledge to you and for that, we will always honor your presence in our department:)",
+        "animation": "flower"
+      },
+      {
+        "from": "p",
+        "text": "maraming salamat po. kayo po ang isa sa nagging sangay na nag-gabay sa amin bilang isang bunga ng unibersidad na ito.\n\nat balang araw, kami naman ang magiging sanga ng isang panibagong bunga, kaakibat ang mga aral na ibinihagi mo sa amin\n\nhappy teacher's day po\n\n-p",
+        "animation": "polaroid"
+      },
+      {
+        "from": "-",
+        "text": "happy teacher's day po ma'am! thank u po for everything and i think ur one of the best out here so i hope u have a very best day din po :>",
+        "animation": "sticky"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_599660996383771.jpeg",
+        "caption": "Thank you for being you po."
+      },
+      {
+        "image": "assets/received_837338712301226.jpeg",
+        "caption": "This one is a keeper."
+      },
+      {
+        "image": "assets/received_1096283956152729.jpeg",
+        "caption": "You taught us to think before we run."
+      },
+      {
+        "image": "assets/received_1193765405197013.jpeg",
+        "caption": "Smiles all around. ✨"
+      },
+      {
+        "video": "assets/1004.mp4",
+        "caption": "We love you ma'am Des💕"
+      },
+      {
+        "image": "assets/received_1423597488940538.jpeg",
+        "caption": "Thank you for the great setup and all the support."
+      }
+    ]
+  },
+  {
+    "username": "sirerrol",
+    "passwordHash": "scrypt$b69f4dcca6671248789132b0d1e806ff$e6c01854517873383f6f49418949a485be09590ff2a4931133c4e7acecc345c3549116d7be5c650706c93be8c85cbff558c636161b839c3199d8c26ebdaf68c0",
+    "name": "Sir Errol",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Sir, Happy Teachers' Day po!\n\nThank you po for helping us po sa mga bagay-bagay at sa pagturo po samin, kahit na minsan ay nakaka-overwhelm po ung knowledge nyo po haha.",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po sa aming favorite teacherr💖",
+        "animation": "polaroid"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po sir! Sorry po at hindi na rin po tayo nakakapagklase gawa po ng thesis namin, kaya Im grateful po sa patience nyo po samin 🫶",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Sir nakamiss na po yung mga hands on sa klase natin.",
+        "animation": "sticky"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\n\nSobrang thankful po namin sa mga lectures ninyo, especially cause literal na nagagamit po namin siya sa thesis!! Especially sa AI training 😆\n\nThank you so so much po, very grateful po ako to have been one of your students! 🫶\n\n-anon",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teachers' Day po",
+        "animation": "terminal"
+      },
+      {
+        "from": "-",
+        "text": "Thank you, sir, sa hindi mo pagrequire ng attendance sa class mo. Sorry po kung nasasacrifice yung subject n'yo but know that we appreciate po yung time na nakukuha namin para makapagintindi ng thesis. We celebrate u everyday as our instructor po, not only this Teachers' Day :>",
+        "animation": "polaroid"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day sirrrr, sorry po kasi parang nacocompromise sub. mo po para sa thesis huhuhu. Thank you po sa overflowing consideration para sa aming 4A. Godbless u lagi sir wag ka na po malulungkot atsaka mappressure sa career mo here po kami always para sayo. We love you sirr😍🥰🥰",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teachers day po sirr, thank you po sa pag tulong niyo sa amin sa kung Ano Yong mga kailangan Pagmaghahanap na kami ng work sa outside world. Thank you po sa pagiging considerate at pagintindi sa Amin Kahit na busy po kami sa ibang bagay. Thank you sir kasi d ka nagagalit samin",
+        "animation": "circuit"
+      },
+      {
+        "from": "p",
+        "text": "kulang siguro ang salitang \"magaling\" sa'yo engr.\n\nkulang ang aming pagkamangha sa mga bagay na tinuro at ipinapamalas mo sa amin.\n\nkulang, ngunit sobra sobra naman ang inspirasyong napupulot namin sa'yo.\n\nhappy teacher's day po!\n\n-p",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "helo po sir Errol ang wish ko para sayo ngayong teacher's day ay makapaglet go sa napatamaan mo sa mga repost mo hehe joke. kidding aside, i think ur a great person and im sure na there's a lot of ppl out there that would be happy to be friends wit u, isa na po aq don. sana makainuman ka namin nxt🕘",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "thank you po Sir for being a good teacher po, you don't know po how much we appreciate yung mga tinuro mo po sa amin simula nung hinandle mo po kami. from the very start po, ung seminar pa lang po, hanggang maging faculty ka po namin, sobrang humanga po lahat sa'yo, saksi po ako kung paano ka po purihin ng mga kaklase ko, na sobrang talino mo po, at mga katagang \"buti na lang andiyan si Sir Errol\", \"iba pag klase ni Sir Errol, talagang may natututunan\" like legit Sir, nahandle mo po kami nung time na di ka pa po man bihasa sa pag pasimple ng idea pero sob knowledgeable mo naman po, and you have improved a lot po from our 1st encounter sa pagtuturo po ng mga concept na sobrang foreign sa amin, Happy Teacher's Day po Sir. You are a respectable teacher who deserve recognition and love from students (syempre from 4A) sana mapamahal ka pa po sa CpE students ikaw po pag-asa ng mga talented freshies pra mag grow po sila\n\nps. thank you po sa pag appreciate sa amin kahit ang nonchalant namin",
+        "animation": "envelope"
+      }
+    ],
+    "memories": [
+      {
+        "video": "assets/received_1163383991812799.mp4",
+        "caption": "Small moments, big memories."
+      },
+      {
+        "image": "assets/received_2320575218314033.jpeg",
+        "caption": "Thank you for being you po."
+      },
+      {
+        "image": "assets/received_1857576344798470.jpeg",
+        "caption": "We won't forget this day."
+      },
+      {
+        "image": "assets/received_831924812708158.jpeg",
+        "caption": "Class dismissed, memories kept."
+      },
+      {
+        "image": "assets/received_1089343346331833.jpeg",
+        "caption": "Your kindness stayed with us longer than any lesson."
+      },
+      {
+        "image": "assets/received_1161883069145283.jpeg",
+        "caption": "Every success of ours has your commit history."
+      },
+      {
+        "video": "assets/received_1304661210870822.mp4",
+        "caption": "Because you cared, we cared too."
+      },
+      {
+        "image": "assets/FB_IMG_1732440650078.jpg",
+        "caption": "Thank you for the great setup and all the support."
+      }
+    ]
+  },
+  {
+    "username": "maamjonah",
+    "passwordHash": "scrypt$16148367e3e6118604e10b4abe9fadb5$c5bc989620f5d84071fe3f8fb2392a01409a0d67834d0efb47d3189f73538a43671a502d159c01890bafb88daa6a2ea43d3ff56df53901e3ab372f6f9cf21b53",
+    "name": "Ma'am Jonah",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Happy Teachers' day po maam 🫶Thank you po sa patience na binigay nyo po samin at sa mga lesson and guidance na tinuro nyo po samin since 1st year po 🥰",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Belated Happy Teacher's Day po Ma'am, ang taba po ng puso mo Ma'am kasi po yung last time po ang galing po ng paghandle mo po ng situation, ang dami ko pong natutunan at narealize, sana po makabonding ka po namin kasi wala na po tayong klase",
+        "animation": "envelope"
+      },
+      {
+        "from": "-",
+        "text": "Ma'am Jonah Happy Teacher's Day po 💖",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po Ma'am Jonah, round 2 po ma'am nung tower building nakamiss pooo",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day po Ma'am Jonah, salamat po sa support mo sa aming mga 4A salamat din sa mga knowledge po. Thank you din po ssa mga encouraging words or wisdom na isa sa pinanghawakan naming all throughout ng aming college life. Godbless po Ma'am, mahal ka po ng 4A😍🥰",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "Thank you po for being a part of our CpE journey and we appreciate na you treat us as your babies :> Happy Teachers' Day po!",
+        "animation": "sticky"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥰 Thank you po for being a part of our CpE journey! You were one of our first introductions into the world of CpE nung freshies pa lng kami, and it has been so fun po. Very grateful po ako to have been one your students. Thank you sm po!💗\n\n-anon",
+        "animation": "envelope"
+      },
+      {
+        "from": "p",
+        "text": "from first year up until fourth year, I've been looking forward po everytime na nagkakameron ka ng subject sa amin\n\nI feel like I'm ready to learn again and to unlock another experience and knowledge na magagamit ko in the future.\n\nhappy teacher's day po\n\n-p",
+        "animation": "circuit"
+      },
+      {
+        "from": "J.L",
+        "text": "happy teacher's day po ma'am! thank u po sa lahat ng tinuro and also for the memories lalo na nung 1st year hehe. i hope u find more joy sa pagiging teacher para mas tumagal pa po. thank u po ulit and i wish u the best in everything.\n\n--J.L",
+        "animation": "flower"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_1084141366873893.jpeg",
+        "caption": "Because of you, we kept going."
+      },
+      {
+        "image": "assets/received_758407239740308.jpeg",
+        "caption": "Grateful for every lesson, big and small."
+      },
+      {
+        "image": "assets/received_1109830533660744.jpeg",
+        "caption": "Good times, good people."
+      },
+      {
+        "image": "assets/400693454_876389964205933_8393635576962659364_n.jpg",
+        "caption": "The best lessons weren't in the books."
+      },
+      {
+        "image": "assets/received_802907958887106.jpeg",
+        "caption": "You believed in us before we did."
+      },
+      {
+        "image": "assets/received_1185047880184755.jpeg",
+        "caption": "We'll look back at these days and smile."
+      },
+      {
+        "image": "assets/received_652074444289558.jpeg",
+        "caption": "Class dismissed, memories kept."
+      }
+    ]
+  },
+  {
+    "username": "maamalex",
+    "passwordHash": "scrypt$f618517e6fcb30d24ce9bfc8e5ec471c$984056267cc36ad62f15afa4177184185f2503843e273d2dfbfd44981187dee5a01d8167b41977937bc0603d620794a98a89c0e08d660b3f7400b0c726244fdb",
+    "name": "Ma'am Alex",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day Maam 💕\n\nThank you po sa patience na binigay nyo po samin at sa mga lesson and guidance na tinuro nyo po samin 🥰",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Ma'am pa-debate ka po sa laws sa juniors namin hahaha maganda po yun ma'am, nakmiss po discussion ng laws natin",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day po Ma'am Alex, we love you poooo!!",
+        "animation": "terminal"
+      },
+      {
+        "from": "-",
+        "text": "Thank you po for sharing your knowledge to us and know that we appreciate that you align your ways of teaching to whatever way we will be able to retain more knowledge. Happy Teachers' Day!",
+        "animation": "sparkle"
+      },
+      {
+        "from": "p",
+        "text": "C-omplete package\nP-alagi aq active sa kanya\nE-enthusiastic\n\nL-agi aqng natatakot sa laws na subject\nA-ndami q natutunan na laws\nW-onderful tonight\nS-uper worth it maging student niya\n\nhappy teacher's day pu!\n\n-p",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "heloo po maam, happy teacher's day po. i jus wanted to say na i think ur a great person and also a great teacher. i hope u get everything u want in life and sana maenjoy mo pa po lalo ang pagtuturo. thank u din po kay sir tropa Charles hehe.",
+        "animation": "circuit"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\nSobrang dami ko po natutunan sa inyong lectures. I really appreciate how hands-on ang approach niyo for lectures, especially for recitations. Like talagang nabubuhayan brain cells ko po😆Very grateful po ako to have been on your students!💗\n\n-anon",
+        "animation": "envelope"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/58e73c02-cc05-434c-ad1b-0d7096ed7aae.jpeg",
+        "caption": "This one is a keeper."
+      },
+      {
+        "image": "assets/received_4315565892057565.webp",
+        "caption": "Thank you for every extra minute you gave us."
+      }
+    ]
+  },
+  {
+    "username": "sirponce",
+    "passwordHash": "scrypt$7d611cf6a1f4bbbed59146c61606e43a$d54b019a1ee849fa68c9f4b7b1e95ad8c9f67d9fb84e8303648f91157a08434af98158900beb02dccd640f48613431ae18bea3d6047e0119c64549050c793850",
+    "name": "Sir Ponce",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po!\n\nWe don't really have much encounter pa po but we are really grateful sa mga papers po ninyo, without po kasi nun baka hindi po kami nakapasa ng 3rd year. Also po thank you sa mga diniscuss nyo po sa seminar, you help me realise po kung ano po talaga ung gusto kong tahakin.\n\nThank you po ulit 🫶",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "hi po Sir, good luck po sa journey mo sa faculty, ang galing mo po nung seminar natin 👏",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "happy teacher's day po! sana madami ka pang mainspire na students:)",
+        "animation": "terminal"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day po sir, salamat po sa knowledge na at sa mga bagay na pinarealize mo sa amin lalo na po nung seminar sadly po ay di po naming ikaw naexperience na maging prof.. Goodluck sir sa iyong teaching journey sana'y maging masaya po ang iyong teaching experienceeeee🥰🥰",
+        "animation": "envelope"
+      },
+      {
+        "from": "-",
+        "text": "Thank you po sa practical knowledge na inimpart nyo nung seminar and sana po maging very helpful talaga samin post grad. We thank you po for emphatizing with possible existential crisis na currently nararanasan namin as graduating students (sana). Goodluck po sa future endeavors n'yo! :>",
+        "animation": "circuit"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\nNa-amaze po ako sa way ninyo maglecture, like talagang full attention po kami sa lectures niyo hehe. Especially yung seminar niyo po for career dev. I really appreciate how meticulous and detailed it was po! Definitely one of the best seminars💗\n\n-anon",
+        "animation": "flower"
+      },
+      {
+        "from": "p",
+        "text": "happy teacher's day po, sir! even though you're a new instructor and nakakapanibago pa rin po hahaha, but thank you po for nurturing our juniors, and I know naman po na marami silang natutunan sa'yo\n\n-p",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "heloo po sir, kahit di ka pa namin nagiging teacher ay feel ko magaling ka magturo HAHAHA. narealize q lang nong nagging speaker ka sa seminar namin. thank u sir sa lahat ng advice and hope u thrive in ur career, i wish u da bext. goodluck and padayon:>>",
+        "animation": "polaroid"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/IMG_9426.jpeg",
+        "caption": "This one is a keeper."
+      },
+      {
+        "image": "assets/IMG_3188.jpg",
+        "caption": "We won't forget this day."
+      },
+      {
+        "image": "assets/IMG_3222.jpg",
+        "caption": "Smiles all around. ✨"
+      },
+      {
+        "image": "assets/received_3039942902854768.jpeg",
+        "caption": "Thank you for being you po."
+      }
+    ]
+  },
+  {
+    "username": "maamalea",
+    "passwordHash": "scrypt$821a893d0d4eac55a55ad6d0efda1624$daa31a71249b47d5a79c7788259b38583022101cac98139d75deea299b89a0c6e84889a236ac7ae28db3fcf23bce86c3a3b66737996d4a042d05fe6a6fa1101b",
+    "name": "Ma'am Aleah",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "-",
+        "text": "happy teacher's day Ma'am Alea, mahal ka po naminnnn",
+        "animation": "sticky"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' day po maam 🫶 Thank you po sa patience na binigay nyo po samin at sa mga lesson and guidance na tinuro nyo po samin since 1st year po 🥰",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Thank you po, ma'am for being a part of our earlier years sa CpE and hindi po mawawala sa memories namin na ikaw po pinakaunang instructor na nameet namin nung mga totoy at nene palang kami sa program na ito :> Happy Teachers' Day po!",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po!🥰 I really appreciate how supportive and understanding you are po Mam💗 Thank you sm po for your guidance in our freshy years. Ang bilis po ng panahon, 4th yr na kami huhu, mammiss po namin kayo mam😭 Thank you so much po for being a part of our CpE journey!",
+        "animation": "envelope"
+      },
+      {
+        "from": "p",
+        "text": "happy teacher's day po sa first ever instructor na na-encounter ko noong first year pa lamang ako\n\ntanda ko pa po ang mga aral na ibinahagi mo sa amin mong kapanahunan namin\n\nkahit magpa recitation ka pa po right now hahaha jk miss ka na po namin ma'am\n\n-p",
+        "animation": "polaroid"
+      },
+      {
+        "from": "-",
+        "text": "happy teacher's day poo, thank uu po sa experience na maging teacher ka po namin. ur a great teacher po and i hope u enjoy this dayy",
+        "animation": "sparkle"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_1854403608756187.jpeg",
+        "caption": "So pretty as always 💕"
+      },
+      {
+        "image": "assets/received_1110385924141753.jpeg",
+        "caption": "Always grateful."
+      },
+      {
+        "image": "assets/379434723_873554401006915_4681340513567455012_n.jpg",
+        "caption": "One of our best days with you."
+      },
+      {
+        "image": "assets/423147533_933119825199622_7959450295846341180_n.jpg",
+        "caption": "Proof that we actually listened. 😄"
+      },
+      {
+        "image": "assets/received_3473902136077380.jpeg",
+        "caption": "Memory worth keeping."
+      }
+    ]
+  },
+  {
+    "username": "sirjayvic",
+    "passwordHash": "scrypt$72eb7b3d41bf6fd837bd5fc33f53ad3d$bc550484c1b7d8025f80aa725471bcc4ffd99c51096dff6b1df22682b858f07b1dba67f61e09afe488c8c579f8cba01c404f75770c2e6b8a876d06500d146dfb",
+    "name": "Sir Jayvic",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "-",
+        "text": "Happy Teachers' Day sir! stay pogi:)",
+        "animation": "terminal"
+      },
+      {
+        "from": "anon",
+        "text": "Happy Teacher's Day po!🥳\nMiss na namin kayo sir huhu. Thank you so much po for being a part of our CpE journey💗\n\n-anon",
+        "animation": "polaroid"
+      },
+      {
+        "from": "K",
+        "text": "Happy Teachers' Day po sir!\n\nStay cheerful as ever po, nakakahawa po kasi kaya sana mahawaan nyo po ung mga darating pang mga CpE 🫶",
+        "animation": "flower"
+      },
+      {
+        "from": "K",
+        "text": "I enjoy the classes we had po nung 1st year pa po kami. Thank you po sir 🥰",
+        "animation": "sticky"
+      },
+      {
+        "from": "-",
+        "text": "We will always be grateful po na naging part ka po ng journey namin sa earlier years namin as CpE. Thank you po for all the knowledge you imparted on us and for your kindness. Dagdag pogi points sir liban sa lagi po kayo nakangiti pagnabati kayo :>",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher day po sa isa sa pinakapoging faculty ng CpE hahaha, salamat po sa pagturo ng chemistry tsaka sa pagiging mabait sa amin hahaha. Ingat ka po palagi mahal ka po namin",
+        "animation": "envelope"
+      },
+      {
+        "from": "kulot (malapit na mapanot) ng cpe",
+        "text": "kumusta po sir, doing good naman po? i admire yung sipag at dedication mo po sa trabaho, sana magkaroon din aq HAHA. pero sir, wag mo kalimutan magtake ng pahinga whenever u need it. a small reward won't hurt. goodluck po sir sa life. padayon.\n\n-kulot (malapit na mapanot) ng cpe",
+        "animation": "flower"
+      },
+      {
+        "from": "p",
+        "text": "happy teacher's day sa og na chem teacher ku nong 1st year\n\nsa'yo ko po natutunan ang magreview before umattend sa isang class hahahah\n\nthank you po for the knowledge and experience\n\nmiss q na maging pers yer sir :((\n\n-p",
+        "animation": "sticky"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_1218722836958318.jpeg",
+        "caption": "Always keep smiling po 🤗"
+      },
+      {
+        "image": "assets/IMG20231012110727.jpg",
+        "caption": "Moments we'll always remember."
+      },
+      {
+        "image": "assets/received_1926650568273354.jpeg",
+        "caption": "Thank you for never giving up on us."
+      },
+      {
+        "image": "assets/received_1193765405197013.jpeg",
+        "caption": "Smiles all around. ✨"
+      },
+      {
+        "image": "assets/396312637_1025451795360781_5395050083899082559_n.jpg",
+        "caption": "The canal was bad, but the memories were good."
+      },
+      {
+        "video": "assets/received_3535748673384662.mp4",
+        "caption": "Yes, we were paying attention. Mostly."
+      },
+      {
+        "image": "assets/received_1320226239751250.jpeg",
+        "caption": "Hard lessons, happy faces."
+      },
+      {
+        "image": "assets/377105136_891655762567101_8846051794168793398_n.jpg",
+        "caption": "Your smile made every class brighter."
+      }
+    ]
+  },
+  {
+    "username": "sirbernie",
+    "passwordHash": "scrypt$650b5b4f4ab8be65d23fb5ba54e2d799$292d694bc1d0c1adffe0c4412404ff109705be821ff6ad25fc88a0c0757c78b46e55fda4d0aff7246c9a21650bf0f0387fdb2e0341b4505cf5b44c3f69c0b0e4",
+    "name": "Sir Bernie",
+    "title": "Professor",
+    "messages": [
+      {
+        "from": "K",
+        "text": "Sir we miss you po 😭",
+        "animation": "terminal"
+      },
+      {
+        "from": "K",
+        "text": "I enjoy the classes we had po lalo na po ung may palaro ka pa po ",
+        "animation": "sticky"
+      },
+      {
+        "from": "K",
+        "text": "Promise po sir natatandaan ko pa po ung DE 👀",
+        "animation": "circuit"
+      },
+      {
+        "from": "K",
+        "text": "Sir, sana makabonding ka parin po namin kahit hindi ka na po namin teacher 🥹🫶",
+        "animation": "sparkle"
+      },
+      {
+        "from": "-",
+        "text": "Hi Sirrr, congrats and good luck po sa new journey mo. Happy Teacher's Day poo",
+        "animation": "polaroid"
+      },
+      {
+        "from": "-",
+        "text": "Happy teacher's day Sir Bernie ket di ka na po nagaturo. Salamat po sayo at naging bearable yung aming college life. Mahal ka namin Sir, goodluck po sa new journey po and sa new career. Miss ka na po naminnnnn🫶🥰",
+        "animation": "flower"
+      },
+      {
+        "from": "-",
+        "text": "We miss you sir and thank u po kasi naging part ka ng CpE journey namin. Thank u po sa lahat ng knowledge na inimpart mo samin and thank u po for saying na favorite nyo kami totoo man o hindi hahahah we love u sir! Happy teachers' day pooo",
+        "animation": "circuit"
+      },
+      {
+        "from": "-",
+        "text": "Happy Teacher's Day po!🥳\nMiss na namin kayo sir😭 Thank you po for all you taught us, sobrang fun ng mga lectures niyo, especially yung parang palaro ang style 😆 Hanggang ngayon kabisado ko pa din po yung 5S hahaha. Thank you so much po for being a part of our CpE journey!💗",
+        "animation": "envelope"
+      },
+      {
+        "from": "lider ng oystermushroom",
+        "text": "medyo nakakamiss ka na po sir hehe, medyo lang. kumusta po ang life out there? i hope everything works out in ur favor and i hope that the world would be at least a little kinder to u. goodluck po\n\n-lider ng oystermushroom",
+        "animation": "sparkle"
+      },
+      {
+        "from": "p",
+        "text": "wala ka man sa aming tabi, mananatili ang presensiya mo palagi.\n\nhappy teacher's day po sir!\n\nhamak lamang na simple and mensahe na'to, pero kalakip nito ang puso ng bawat isa sa amin.\n\nnaging parte ka ng pahina ng aming libro, at hayaan mong maging parte ka rin ng paglago nito.\n\n-p",
+        "animation": "flower"
+      }
+    ],
+    "memories": [
+      {
+        "image": "assets/received_827453352529825.jpeg",
+        "caption": "The teacher said \"it's simple.\" We disagreed."
+      },
+      {
+        "image": "assets/received_845433411323321.jpeg",
+        "caption": "Everyone out! But first, one more photo."
+      },
+      {
+        "video": "assets/received_1225473985134197.mp4",
+        "caption": "The silence in this video is louder than the exam."
+      },
+      {
+        "image": "assets/received_1250397406384981.jpeg",
+        "caption": "Keep smiling."
+      },
+      {
+        "video": "assets/received_888097147508137.mp4",
+        "caption": "We learned more by doing, thanks to you."
+      }
+    ]
+  }
+]

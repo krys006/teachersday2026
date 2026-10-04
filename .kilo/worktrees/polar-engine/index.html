@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta name="theme-color" content="#eef8fd" />
+
+    <title>HAPPY TEACHERS DAY! 2026</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,600;1,400&family=JetBrains+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <canvas id="bg" aria-hidden="true"></canvas>
+    <svg class="circ" viewBox="0 0 400 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <path
+        d="M0 120h90l30 30h120l20-20h140M0 400h60l40-40h100M400 620h-80l-30 30H160l-30-30H0M200 0v90l30 30M60 800v-120l30-30"
+      />
+      <g>
+        <circle cx="90" cy="120" r="4" />
+        <circle cx="240" cy="150" r="4" />
+        <circle cx="100" cy="360" r="4" />
+        <circle cx="130" cy="650" r="4" />
+        <circle cx="230" cy="120" r="4" />
+      </g>
+    </svg>
+
+    <nav id="bar" hidden>
+      <button class="chip" id="home">⌂ HOME</button
+      ><button class="chip" id="logout">LOG OUT</button>
+    </nav>
+
+    <button id="snd" class="chip" aria-label="Turn sound on" aria-pressed="false">🔇</button>
+
+    <main id="app">
+
+      <section class="screen active" id="s-open">
+        <p class="eyebrow">A DIGITAL GIFT FROM BSCPE4A</p>
+        <h1 id="ttl" aria-label="HAPPY TEACHERS DAY PO!"></h1>
+        <p class="year">2026</p>
+        <p class="tag">“A little something from your students”</p>
+        <button class="btn" id="begin">BEGIN</button>
+      </section>
+
+      <section class="screen" id="s-init">
+        <h2 class="mono">INITIALIZING...</h2>
+        <ul id="lines" class="mono"></ul>
+        <div class="prog"><i id="pbar"></i></div>
+        <p class="mono" id="pct">0%</p>
+        <p class="mono ready" id="ready" hidden>SYSTEM READY</p>
+      </section>
+
+      <section class="screen" id="s-login">
+        <form class="panel" id="form" autocomplete="off">
+          <p class="eyebrow">-- SYSTEM NETWORK --</p>
+          <h2>WELCOME PO MAAM/SIR</h2>
+          <p class="sub">Your personal collection of messages is waiting.</p>
+          <label for="u">USERNAME</label
+          ><input id="u" autocapitalize="none" autocorrect="off" required />
+          <label for="p">PASSWORD</label><input id="p" type="password" required />
+          <p class="mono msg" id="lmsg" role="status"></p>
+          <button class="btn" type="submit">LOG IN</button>
+        </form>
+      </section>
+
+      <section class="screen" id="s-welcome">
+        <div class="heart" aria-hidden="true">💻</div>
+        <p class="eyebrow">WELCOME PO</p>
+        <h1 id="wname"></h1>
+        <p class="sub">A little something prepared especially for you.</p>
+        <p class="eyebrow">YOU HAVE</p>
+        <div class="count" id="wcount">0</div>
+        <p class="eyebrow">MESSAGES</p>
+        <button class="btn" id="openMsgs">OPEN YOUR MESSAGES</button>
+      </section>
+
+      <section class="screen" id="s-msg">
+        <p class="mono" id="mprog" aria-live="polite"></p>
+        <div class="prog thin"><i id="mbar"></i></div>
+        <div id="stage"></div>
+        <div class="nav">
+          <button class="btn ghost" id="prev">← BACK</button
+          ><button class="btn" id="next">NEXT →</button>
+        </div>
+      </section>
+
+      <section class="screen" id="s-mem">
+        <p class="eyebrow">-- MEMORIES --</p>
+        <h2>Moments we kept</h2>
+        <div id="gallery"></div>
+        <button class="btn" id="memNext">CONTINUE</button>
+      </section>
+
+      <section class="screen" id="s-diag">
+        <div id="diag" class="panel"></div>
+        <button class="btn" id="diagNext" hidden>CONTINUE</button>
+      </section>
+
+      <section class="screen" id="s-status">
+        <div id="stat" class="panel"></div>
+        <button class="btn" id="statNext" hidden>CONTINUE</button>
+      </section>
+
+      <section class="screen" id="s-final">
+        <p class="mono ok" id="allread">ALL MESSAGES READ ✓</p>
+        <div id="thanks" hidden>
+          <h1>THANK YOU PO!</h1>
+          <p class="fl" style="--i: 1">For teaching us,</p>
+          <p class="fl" style="--i: 2">guiding us,</p>
+          <p class="fl" style="--i: 3">supporting us,</p>
+          <p class="fl" style="--i: 4">and helping us grow.</p>
+          <p class="fl big" style="--i: 6">Happy Teachers' Day, <b id="fname"></b>.</p>
+          <p class="fl sig" style="--i: 7">— from BSCpE4A✨</p>
+        </div>
+      </section>
+
+    </main>
+
+    <script src="data/teachers.js"></script>
+    <script src="script.js"></script>
+
+  </body>
+</html>
